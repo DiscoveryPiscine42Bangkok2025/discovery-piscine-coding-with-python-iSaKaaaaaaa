@@ -5,7 +5,7 @@ def array_of_names(names_dict):
         full_names.append(full_name)
     return full_names
 
-# ตัวอย่างการใช้งาน
+
 persons = {
     "jean": "valjean",
     "grace": "hopper",
